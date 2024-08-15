@@ -40,5 +40,5 @@ The array answer is [|0 - 0|] = [0].
 Constraints:
 
     1 <= nums.length <= 1000
-    1 <= nums[i] <= 105
+    1 <= nums[i] <= 105#
 
